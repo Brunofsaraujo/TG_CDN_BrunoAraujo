@@ -48,7 +48,7 @@ O projeto consolida conhecimentos adquiridos ao longo das disciplinas de **Proje
 # 📂 Estrutura do Repositório
 
 TG_CDN_BrunoAraujo/
-
+```
 ├── 01_Documento_ABNT/
 │   ├── TG_Final.pdf
 │   ├── TG_Final.docx
@@ -93,7 +93,7 @@ TG_CDN_BrunoAraujo/
 │   └── Video_Demo_Deploy.mp4
 │
 └── README.md
-
+```
 ---
 
 # 🛠 Tecnologias Utilizadas
