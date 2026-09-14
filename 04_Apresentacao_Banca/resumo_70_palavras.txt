@@ -1,0 +1,3 @@
+Analisa-se a formação em Ciência de Dados para Negócios por meio de seis Projetos Integradores. A análise documental e reflexiva relaciona artefatos acadêmicos à evolução de competências técnicas e profissionais. Os resultados evidenciam integração entre negócio, engenharia, comunicação e avaliação de modelos, com reconhecimento de limitações experimentais. Conclui-se que a formação inclui justificar decisões e delimitar evidências, permanecendo pendentes a validação temporal e a homologação do projeto final.
+
+Palavras-chave: formação profissional; portfólio reflexivo; pensamento analítico; governança de dados; aprendizado de máquina.
